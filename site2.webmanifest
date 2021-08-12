@@ -4,5 +4,5 @@
 "theme_color":"red",
 "background_color":"black",
 "display_override": ["window-control-overlay", "minimal-ui"],
-"display": "standalone",
+"display": "standalone"
 }
