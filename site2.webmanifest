@@ -2,8 +2,8 @@
 {"src":"https://1.bp.blogspot.com/-l6ae8w0poA8/YDq0j1Z4B6I/AAAAAAAABdc/Eiu_7TydiwQsHeJjcAdg5Fp7X6nLZa4nACLcBGAsYHQ/s512/android-chrome-512x512.png","sizes":"512x512","type":"image/png"}],
 
 "theme_color":"red",
+"version":"2.0"
 "background_color":"black",
-"scope": "/myapp/",
 "display_override": ["window-control-overlay", "minimal-ui"],
 "display": "standalone"
 }
